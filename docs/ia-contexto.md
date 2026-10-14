@@ -1,6 +1,6 @@
 # Referências e avaliação para minha IA
 
-O significado de “FCC”, a plataforma da IA e a integração ainda precisam ser confirmados. Este guia serve para assistentes que aceitam arquivos de contexto ou recuperação de documentos.
+FCC significa **Free Claude Code**, conforme informado pelo usuário. O link do seu projeto e a versão utilizada ainda precisam ser confirmados. A [integração Telegram](telegram-fcc.md) documenta a referência pública pesquisada. Este guia serve para assistentes que aceitam arquivos de contexto ou recuperação de documentos.
 
 Adicionar links ao GitHub não treina um modelo automaticamente. Documentação pode melhorar respostas quando a plataforma realmente a carrega no contexto; fine-tuning e execução de modelos são processos separados.
 
@@ -52,4 +52,4 @@ Monte tarefas pequenas: implementar função, corrigir erro, escrever teste rele
 
 Separe tarefas de desenvolvimento das de avaliação para não incluir a resposta esperada no contexto. Registre falhas e repita quando houver variação relevante. Resposta convincente sem execução não demonstra melhoria de programação.
 
-Use o [modelo de experimento](../templates/experimento-ia.md). A integração específica com FCC será documentada quando plataforma e mecanismo forem conhecidos.
+Use o [modelo de experimento](../templates/experimento-ia.md). O [kit para Linux e FCC](instalacao-linux-fcc.md) contém instalação, Telegram e notificações. Confirme o repositório e a versão antes de aplicar instruções específicas ao seu FCC.

@@ -1,6 +1,10 @@
 # Catálogo de projetos
 
-Ainda não há projetos de código publicados neste catálogo. As propostas abaixo são um ponto de partida e não representam entregas concluídas.
+## Ferramenta implementada neste repositório
+
+- [Notificador Telegram de tarefas](telegram-notificador.md): script Python para executar comandos locais com limite de tempo e enviar o estado final. Testes locais executados; ativação no Telegram do usuário pendente.
+
+As propostas abaixo são um ponto de partida e não representam entregas concluídas.
 
 ## Ideias para desenvolver
 

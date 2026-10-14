@@ -121,6 +121,62 @@
       "readme_url": "https://raw.githubusercontent.com/nvm-sh/nvm/b1b3a0038c0666c7436cb5d383608b4b72c8300b/README.md",
       "repository_url": "https://github.com/nvm-sh/nvm",
       "verification": "HEAD consultado por Git; README consultado no commit indicado. Software não instalado ou testado."
+    },
+    {
+      "repo": "Alishahryar1/free-claude-code",
+      "branch": "main",
+      "commit": "261ecf7a181dd66098bf6fd2c2ee79a8c15d370e",
+      "readme_url": "https://raw.githubusercontent.com/Alishahryar1/free-claude-code/261ecf7a181dd66098bf6fd2c2ee79a8c15d370e/README.md",
+      "repository_url": "https://github.com/Alishahryar1/free-claude-code",
+      "verification": "HEAD consultado por Git; README consultado no commit indicado. Software não instalado no computador do usuário."
+    },
+    {
+      "repo": "astral-sh/ruff",
+      "branch": "main",
+      "commit": "9ff6b0f0d27dcbac5a1e6447a336ad8562720f3c",
+      "readme_url": "https://raw.githubusercontent.com/astral-sh/ruff/9ff6b0f0d27dcbac5a1e6447a336ad8562720f3c/README.md",
+      "repository_url": "https://github.com/astral-sh/ruff",
+      "verification": "HEAD consultado por Git; README consultado no commit indicado. Software não instalado no computador do usuário."
+    },
+    {
+      "repo": "astral-sh/uv",
+      "branch": "main",
+      "commit": "a79aac95dc8f1d79e4396fdcb262d22c520cc1f6",
+      "readme_url": "https://raw.githubusercontent.com/astral-sh/uv/a79aac95dc8f1d79e4396fdcb262d22c520cc1f6/README.md",
+      "repository_url": "https://github.com/astral-sh/uv",
+      "verification": "HEAD consultado por Git; README consultado no commit indicado. Software não instalado no computador do usuário."
+    },
+    {
+      "repo": "pytest-dev/pytest",
+      "branch": "main",
+      "commit": "c9c19f8e62c12834ad83193a1869cc82fe9c700e",
+      "readme_url": "https://raw.githubusercontent.com/pytest-dev/pytest/c9c19f8e62c12834ad83193a1869cc82fe9c700e/README.rst",
+      "repository_url": "https://github.com/pytest-dev/pytest",
+      "verification": "HEAD consultado por Git; README consultado no commit indicado. Software não instalado no computador do usuário."
+    },
+    {
+      "repo": "pre-commit/pre-commit",
+      "branch": "main",
+      "commit": "20b1e7cb12b836f010a56ad854a3eb8059afe5b2",
+      "readme_url": "https://raw.githubusercontent.com/pre-commit/pre-commit/20b1e7cb12b836f010a56ad854a3eb8059afe5b2/README.md",
+      "repository_url": "https://github.com/pre-commit/pre-commit",
+      "verification": "HEAD consultado por Git; README consultado no commit indicado. Software não instalado no computador do usuário."
+    },
+    {
+      "repo": "syncthing/syncthing",
+      "branch": "main",
+      "commit": "d70d210320c4dcce67774c5bf1f545912b99e5d8",
+      "readme_url": "https://raw.githubusercontent.com/syncthing/syncthing/d70d210320c4dcce67774c5bf1f545912b99e5d8/README.md",
+      "repository_url": "https://github.com/syncthing/syncthing",
+      "verification": "HEAD consultado por Git; README consultado no commit indicado. Software não instalado no computador do usuário."
+    },
+    {
+      "repo": "restic/restic",
+      "branch": "master",
+      "commit": "9da3b87b07706956e8dc5fd5cb259b99ec940f51",
+      "readme_url": "https://raw.githubusercontent.com/restic/restic/9da3b87b07706956e8dc5fd5cb259b99ec940f51/README.md",
+      "repository_url": "https://github.com/restic/restic",
+      "verification": "HEAD consultado por Git; README consultado no commit indicado. Software não instalado no computador do usuário."
     }
   ]
 }

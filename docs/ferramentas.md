@@ -2,6 +2,8 @@
 
 Ambiente informado: Zorin OS. As ferramentas anteriores ainda não foram informadas; estas opções são sugestões, não um inventário confirmado de instalações.
 
+Veja também o [kit com comandos de instalação](instalacao-linux-fcc.md), incluindo uv, Ruff, pytest, ShellCheck, Restic, Syncthing, KeePassXC e Telegram.
+
 ## Base sugerida
 
 | Necessidade | Opção no Linux | Uso | Como conferir |

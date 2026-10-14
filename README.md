@@ -11,6 +11,8 @@ Este repositório reúne planos, referências e documentação dos projetos que 
 | [Projetos](projetos/README.md) | Catálogo e ideias para os próximos projetos |
 | [Documentação de projetos](docs/documentar-projetos.md) | Como registrar entregas e evidências |
 | [Ambiente Zorin OS](docs/zorin-os.md) | Preparação do Linux, ferramentas e sessões de terminal |
+| [Kit de instalação Linux e FCC](docs/instalacao-linux-fcc.md) | Ferramentas gratuitas, instalação e tarefas noturnas |
+| [Telegram e IA](docs/telegram-fcc.md) | Conversas no FCC e avisos de conclusão de tarefas |
 | [Ferramentas](docs/ferramentas.md) | Finalidade, alternativas e inventário da migração |
 | [Repositórios de estudo](docs/repositorios.md) | Programação, segurança, IA e ferramentas de desenvolvimento |
 | [Trilha de aprendizagem](docs/trilha-estudos.md) | Estudos conectados a entregas de portfólio |
