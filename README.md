@@ -1,16 +1,32 @@
-## Hi there 👋
+# Olá! Eu sou o Lipeluizao 👋
 
-<!--
-**lipeluizao-tech/Lipeluizao-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou construindo meu portfólio e aprofundando meus estudos em programação, Linux, cibersegurança e inteligência artificial. Meu computador de desenvolvimento utiliza **Zorin OS**.
 
-Here are some ideas to get you started:
+Este repositório reúne planos, referências e documentação dos projetos que vou desenvolver. Cada entrega terá código, instruções de execução, testes e aprendizados.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Explore meu portfólio
+
+| Área | Conteúdo |
+| --- | --- |
+| [Projetos](projetos/README.md) | Catálogo e ideias para os próximos projetos |
+| [Documentação de projetos](docs/documentar-projetos.md) | Como registrar entregas e evidências |
+| [Ambiente Zorin OS](docs/zorin-os.md) | Preparação do Linux, ferramentas e sessões de terminal |
+| [Ferramentas](docs/ferramentas.md) | Finalidade, alternativas e inventário da migração |
+| [Repositórios de estudo](docs/repositorios.md) | Programação, segurança, IA e ferramentas de desenvolvimento |
+| [Trilha de aprendizagem](docs/trilha-estudos.md) | Estudos conectados a entregas de portfólio |
+| [Contexto para minha IA](docs/ia-contexto.md) | Uso de referências, avaliação e registro de resultados |
+
+## O que quero construir
+
+- Aplicações web e automações que resolvam problemas reais.
+- Ferramentas de linha de comando com testes e documentação.
+- Laboratórios locais para aprender segurança de aplicações.
+- Experimentos com IA que tenham resultados reproduzíveis.
+
+As ideias ainda não implementadas ficam identificadas no [catálogo](projetos/README.md). Referências de terceiros estão na biblioteca de estudo, com autores e links originais.
+
+## Como acompanho minha evolução
+
+Cada projeto terá uma ficha baseada no [modelo de projeto](templates/projeto.md). As sessões de trabalho podem ser registradas com o [modelo de diário](templates/diario.md), incluindo o que funcionou, o que falhou e o próximo passo.
+
+Comece pelo [guia do Zorin OS](docs/zorin-os.md) e escolha uma entrega pequena da [trilha](docs/trilha-estudos.md).

@@ -1,0 +1,126 @@
+{
+  "schema_version": 1,
+  "method": "Seleção por finalidade e consulta ao README oficial. Não é ranking, auditoria nem garantia de manutenção.",
+  "sources": [
+    {
+      "repo": "freeCodeCamp/freeCodeCamp",
+      "branch": "main",
+      "commit": "62ae8d6fad0c6a9730cf02879da1bed03e4c806f",
+      "readme_url": "https://raw.githubusercontent.com/freeCodeCamp/freeCodeCamp/62ae8d6fad0c6a9730cf02879da1bed03e4c806f/README.md",
+      "repository_url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "verification": "HEAD consultado por Git; README consultado no commit indicado. Software não instalado ou testado."
+    },
+    {
+      "repo": "TheAlgorithms/Python",
+      "branch": "master",
+      "commit": "e1a2a8b016001309a73d5fec4818c35cca139795",
+      "readme_url": "https://raw.githubusercontent.com/TheAlgorithms/Python/e1a2a8b016001309a73d5fec4818c35cca139795/README.md",
+      "repository_url": "https://github.com/TheAlgorithms/Python",
+      "verification": "HEAD consultado por Git; README consultado no commit indicado. Software não instalado ou testado."
+    },
+    {
+      "repo": "ossu/computer-science",
+      "branch": "master",
+      "commit": "33d44a44e3526ede8e862bf1ad50ae5ae7a2f112",
+      "readme_url": "https://raw.githubusercontent.com/ossu/computer-science/33d44a44e3526ede8e862bf1ad50ae5ae7a2f112/README.md",
+      "repository_url": "https://github.com/ossu/computer-science",
+      "verification": "HEAD consultado por Git; README consultado no commit indicado. Software não instalado ou testado."
+    },
+    {
+      "repo": "practical-tutorials/project-based-learning",
+      "branch": "master",
+      "commit": "4a680a837c99a3b2037f55f455bf9626fd134655",
+      "readme_url": "https://raw.githubusercontent.com/practical-tutorials/project-based-learning/4a680a837c99a3b2037f55f455bf9626fd134655/README.md",
+      "repository_url": "https://github.com/practical-tutorials/project-based-learning",
+      "verification": "HEAD consultado por Git; README consultado no commit indicado. Software não instalado ou testado."
+    },
+    {
+      "repo": "OWASP/CheatSheetSeries",
+      "branch": "master",
+      "commit": "ae965343cb82e6b8f42aff1ccee57c4fa0f171c2",
+      "readme_url": "https://raw.githubusercontent.com/OWASP/CheatSheetSeries/ae965343cb82e6b8f42aff1ccee57c4fa0f171c2/README.md",
+      "repository_url": "https://github.com/OWASP/CheatSheetSeries",
+      "verification": "HEAD consultado por Git; README consultado no commit indicado. Software não instalado ou testado."
+    },
+    {
+      "repo": "juice-shop/juice-shop",
+      "branch": "master",
+      "commit": "e39a3bdb8c61295c31fa4e0a03485e68a8ca12a4",
+      "readme_url": "https://raw.githubusercontent.com/juice-shop/juice-shop/e39a3bdb8c61295c31fa4e0a03485e68a8ca12a4/README.md",
+      "repository_url": "https://github.com/juice-shop/juice-shop",
+      "verification": "HEAD consultado por Git; README consultado no commit indicado. Software não instalado ou testado."
+    },
+    {
+      "repo": "WebGoat/WebGoat",
+      "branch": "main",
+      "commit": "e7b131360d74336c0c94ab5c8a21259503f59be8",
+      "readme_url": "https://raw.githubusercontent.com/WebGoat/WebGoat/e7b131360d74336c0c94ab5c8a21259503f59be8/README.md",
+      "repository_url": "https://github.com/WebGoat/WebGoat",
+      "verification": "HEAD consultado por Git; README consultado no commit indicado. Software não instalado ou testado."
+    },
+    {
+      "repo": "mitmproxy/mitmproxy",
+      "branch": "main",
+      "commit": "77355977e5ea540b51ed029a40ed1dc2f1c2ba7b",
+      "readme_url": "https://raw.githubusercontent.com/mitmproxy/mitmproxy/77355977e5ea540b51ed029a40ed1dc2f1c2ba7b/README.md",
+      "repository_url": "https://github.com/mitmproxy/mitmproxy",
+      "verification": "HEAD consultado por Git; README consultado no commit indicado. Software não instalado ou testado."
+    },
+    {
+      "repo": "semgrep/semgrep",
+      "branch": "develop",
+      "commit": "38a67a7eaf724fc266bf96e5705742bff8589775",
+      "readme_url": "https://raw.githubusercontent.com/semgrep/semgrep/38a67a7eaf724fc266bf96e5705742bff8589775/README.md",
+      "repository_url": "https://github.com/semgrep/semgrep",
+      "verification": "HEAD consultado por Git; README consultado no commit indicado. Software não instalado ou testado."
+    },
+    {
+      "repo": "huggingface/transformers",
+      "branch": "main",
+      "commit": "d15ebba04d3a02f6a975dc70e1244a44fba28f80",
+      "readme_url": "https://raw.githubusercontent.com/huggingface/transformers/d15ebba04d3a02f6a975dc70e1244a44fba28f80/README.md",
+      "repository_url": "https://github.com/huggingface/transformers",
+      "verification": "HEAD consultado por Git; README consultado no commit indicado. Software não instalado ou testado."
+    },
+    {
+      "repo": "ggml-org/llama.cpp",
+      "branch": "master",
+      "commit": "6868a52cb337450658006ad2f9281c2eb63f1666",
+      "readme_url": "https://raw.githubusercontent.com/ggml-org/llama.cpp/6868a52cb337450658006ad2f9281c2eb63f1666/README.md",
+      "repository_url": "https://github.com/ggml-org/llama.cpp",
+      "verification": "HEAD consultado por Git; README consultado no commit indicado. Software não instalado ou testado."
+    },
+    {
+      "repo": "ollama/ollama",
+      "branch": "main",
+      "commit": "8718c2bd2363c3f9f422d82bbad322bc2b791d60",
+      "readme_url": "https://raw.githubusercontent.com/ollama/ollama/8718c2bd2363c3f9f422d82bbad322bc2b791d60/README.md",
+      "repository_url": "https://github.com/ollama/ollama",
+      "verification": "HEAD consultado por Git; README consultado no commit indicado. Software não instalado ou testado."
+    },
+    {
+      "repo": "Aider-AI/aider",
+      "branch": "main",
+      "commit": "5dc9490bb35f9729ef2c95d00a19ccd30c26339c",
+      "readme_url": "https://raw.githubusercontent.com/Aider-AI/aider/5dc9490bb35f9729ef2c95d00a19ccd30c26339c/README.md",
+      "repository_url": "https://github.com/Aider-AI/aider",
+      "verification": "HEAD consultado por Git; README consultado no commit indicado. Software não instalado ou testado."
+    },
+    {
+      "repo": "microsoft/vscode",
+      "branch": "main",
+      "commit": "fb4de2eb1bcadf786cf3e71df860d814f7ef4bfb",
+      "readme_url": "https://raw.githubusercontent.com/microsoft/vscode/fb4de2eb1bcadf786cf3e71df860d814f7ef4bfb/README.md",
+      "repository_url": "https://github.com/microsoft/vscode",
+      "verification": "HEAD consultado por Git; README consultado no commit indicado. Software não instalado ou testado."
+    },
+    {
+      "repo": "nvm-sh/nvm",
+      "branch": "master",
+      "commit": "b1b3a0038c0666c7436cb5d383608b4b72c8300b",
+      "readme_url": "https://raw.githubusercontent.com/nvm-sh/nvm/b1b3a0038c0666c7436cb5d383608b4b72c8300b/README.md",
+      "repository_url": "https://github.com/nvm-sh/nvm",
+      "verification": "HEAD consultado por Git; README consultado no commit indicado. Software não instalado ou testado."
+    }
+  ]
+}
