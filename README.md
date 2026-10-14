@@ -1,6 +1,6 @@
-# Olá! Eu sou o Lipeluizao 👋
+# Olá! Eu sou o Luis
 
-Estou construindo meu portfólio e aprofundando meus estudos em programação, Linux, cibersegurança e inteligência artificial. Meu computador de desenvolvimento utiliza **Zorin OS**.
+Estou construindo meu portfólio e aprofundando meus estudos em programação, Linux, cibersegurança e inteligência artificial.
 
 Este repositório reúne planos, referências e documentação dos projetos que vou desenvolver. Cada entrega terá código, instruções de execução, testes e aprendizados.
 
